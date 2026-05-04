@@ -54,7 +54,7 @@ qmoney/src/main/java/com/crio/warmup/stock/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/qmoney.git
+git clone https://github.com/RohitKapare/QMoney-Stock-Portfolio-Analyzer.git
 cd qmoney
 
 # 2. Build the project
